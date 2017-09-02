@@ -7,6 +7,7 @@
 - spark: 基于内存,栈式的解决方案,更适用于需要迭代式计算  
   
 ### spark应用框架  
+![哈哈](http://a3.qpic.cn/psb?/V13TxjFt0sc2rb/8WYMt4WSXs1s4aRIKBcvp0n1eou9Ef*7u73v0Fu6hCE!/b/dPIAAAAAAAAA&bo=BAI1AQAAAAADBxA!&rf=viewer_4)
   
 ### spark和hadoop对比  
   
